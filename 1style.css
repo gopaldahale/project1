@@ -1,0 +1,181 @@
+
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: cursive;
+    z-index: -1;
+    background-color: white;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: cursive;
+    font-size: 5.295rem;
+    margin-top: 30px;
+    color: rgb(0, 172, 134);
+
+}
+
+h3{
+    font-size: 1.5rem;
+    color: rgb(0, 172, 134);
+    
+}
+
+h2{
+    color: rgb(0, 172, 134);
+    font-size: 2.5rem;
+    font-weight: 550;
+    font-family: sans-serif;
+    /* margin: 50px auto 0 auto; */
+    /* position: relative;
+    left: 40%; */
+    text-align: center;
+}
+
+.skills p{
+    text-align: justify;
+ 
+}
+.skills-p3{
+    text-align: justify;
+}
+.skills-p4{
+    text-align: justify;
+    width: 70%;
+}
+
+ hr{
+    width: 10%;
+    border-style: none;
+    /* border: 3px dotted #e3e1e1; */
+    border-Top-style: dotted;
+    color: #bdbdbd;
+    border-width: 5px;
+    margin: 50px auto;
+    background-color: white;
+}  
+
+
+.sss{
+    display: flex;   
+}
+
+.topcont{
+    margin: 0px;
+    padding: 20px;
+    /* border: 2px solid black; */
+    position: relative;
+    padding-top: 100px;
+    background-color: rgb(227, 255, 254);
+
+}
+
+.bottomcld{
+    position: absolute;
+    left: 250px ;
+    top: 350px;
+}
+.topcld{
+    position: absolute;
+    right: 250px ;
+    top: 50px;
+}
+ span{
+text-decoration: underline;   
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+
+#skills{
+    background-color: white;
+    height: 350px;
+    margin: 100px auto;
+    width: 100%;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 0px;
+}
+
+.container{
+    width: 50%;
+    /* border: 2px solid red; */
+    margin: auto;
+    background-color: white;
+}
+
+#profile{
+background-color: white;
+height: 600px;
+}
+
+#profile p{
+width: 50%;
+margin: 50px auto;
+}
+
+
+.skill-img1{
+    width: 25% ;
+    float: left;
+    margin-right: 30px;  
+}
+
+.skill-img2{
+    width: 25% ;
+    float: right;
+    margin-right: 30px;  
+    
+}
+
+.btn{
+    background-color: rgb(0, 255, 170);
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-radius: 10px;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    margin: 50px;
+    box-shadow: inset 10px 10px 20px rgb(0, 150, 112), inset -10px -10px 20px rgb(0, 150, 112);
+
+}
+.btn:hover{
+    background-color: rgb(0, 211, 200);
+    box-shadow: inset 10px 10px 20px rgb(0, 211, 200), inset -10px -10px 20px rgb(0, 211, 200);
+    color: rgb(255, 255, 255);
+    
+}
+
+.hobbies{
+    padding: 20px;
+}
+ #hobbies{
+    height: 400px;
+} 
+
+.footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(24, 204, 189); 
+    padding: 50px 0px;
+}
+
+.footer a{
+    text-decoration: none;
+    padding: 0px 50px;
+    color: rgb(0, 117, 108);
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.footer a:hover{
+    
+    color: rgb(0, 61, 51);
+    font-size: 23px;
+}
+.fp{
+    color: #EAF6F6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 50px;
+}
