@@ -113,6 +113,9 @@ width: 50%;
 margin: 50px auto;
 }
 
+.profile-img{
+    border-radius:100%;
+}
 
 .skill-img1{
     width: 25% ;
